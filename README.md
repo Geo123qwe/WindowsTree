@@ -13,13 +13,19 @@ It operates similarly to how it does in Linux. When you run the **tfile** comman
 Clone this repo *➤* run **Builder.bat** *➤* Enjoy the elegant output!
 
 ## Approximate information output
+Project|--
+    -
+    > README.md
+    -
+    Builder|--
+        _ 
+        > Builder.bat
+        _
+        > Building.py
+        _
 
-|project| --4MB
-    |src| --1MB
-        >main.rs --1MB
-    >cargo.toml --1KB
-    >cargo.lock --2KB
-
-___________\
-Total: 9MB
-___________\
+___
+--
+Total: 4MB 
+--
+___
